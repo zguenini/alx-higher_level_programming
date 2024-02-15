@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# Author - Bereket Dereje
+
 """Defines a rectangle class."""
 from models.base import Base
 

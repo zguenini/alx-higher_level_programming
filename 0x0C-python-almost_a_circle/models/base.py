@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Author - Bereket Dereje
 
 """Defines a base model class."""
 import json

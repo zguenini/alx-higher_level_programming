@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# Author - Bereket Dereje
+
 """Defines a square class."""
 from models.rectangle import Rectangle
 
